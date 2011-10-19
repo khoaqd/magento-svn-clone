@@ -152,17 +152,10 @@ final class Mage
         return array(
             'major'     => '1',
             'minor'     => '6',
-<<<<<<< .working
-            'revision'  => '0',
-            'patch'     => '0',
-            'stability' => '',
-            'number'    => '',
-=======
             'revision'  => '1',
             'patch'     => '0',
             'stability' => '',
             'number'    => '',
->>>>>>> .merge-right.r127595
         );
     }
 
